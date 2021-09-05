@@ -1,0 +1,7 @@
+D:\Проекты\C#\Fraction\Fraction\bin\Debug\Fraction.exe.config
+D:\Проекты\C#\Fraction\Fraction\bin\Debug\Fraction.exe
+D:\Проекты\C#\Fraction\Fraction\bin\Debug\Fraction.pdb
+D:\Проекты\C#\Fraction\Fraction\obj\Debug\Fraction.csproj.CoreCompileInputs.cache
+D:\Проекты\C#\Fraction\Fraction\obj\Debug\Fraction.exe
+D:\Проекты\C#\Fraction\Fraction\obj\Debug\Fraction.pdb
+D:\Проекты\C#\Fraction\Fraction\obj\Debug\Fraction.csproj.AssemblyReference.cache
